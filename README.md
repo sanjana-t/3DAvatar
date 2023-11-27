@@ -1,10 +1,8 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+Avatar Making
 
 ```
-yarn
-yarn dev
+npm run dev
 ```
 
+![image](https://github.com/sanjana-t/3DAvatar/assets/73529434/1547e5ad-c95d-43da-8167-0bbe73c107e9)
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
